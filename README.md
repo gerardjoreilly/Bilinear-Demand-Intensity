@@ -4,6 +4,9 @@ This repository contains files related to  computing the mean annual frequency o
 
 The two files, one a MS Excel sheet and the other a Matlab function, both perform the same operations to compute the MAFE using the proposed extension.
 
+Reference:
+O’Reilly, Gerard J., and Ricardo Monteiro. 2019. “Probabilistic Models for Structures with Bilinear Demand-Intensity Relationships.” Earthquake Engineering & Structural Dynamics. doi:10.1002/eqe.3135.
+
 # Licensing
 Copyright (C) 2018  Gerard J. O'Reilly
 
